@@ -123,3 +123,14 @@ El servidor estará disponible en: http://localhost:8080
 1. - Video Explicación Minicore: https://youtu.be/2nwsDCX2G8w
 2. - GithubFrontend: https://github.com/AleFe2425/Proyecto-MiniCore.git
 3. - Minicore Deployado: https://proyecto-mini-core.vercel.app/
+4. - [Documentación oficial de Spring Boot](https://spring.io/projects/spring-boot)    
+5. - [Baeldung - Guías y tutoriales de Spring Boot](https://www.baeldung.com/spring-boot)
+
+## **Contacto**
+Si tienes preguntas o necesitas más información sobre este proyecto, no dudes en contactarme:
+
+- **Correo institucional:** ignacio.fonte@udla.edu.ec  
+- **Correo personal:** alejandrofe2002@gmail.com
+
+ 
+
